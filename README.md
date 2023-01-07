@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavitar Sharma</h1>
+<div align="center"><h3><a href="https://github.com/durgeshrai633/readme-typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?lines=An+Aspiring+Web+Developer+From+India"></a></h3></div>
 <h3 align="center">I'm a Full-stack Software Developer and JavaScript Enthusiast!</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
