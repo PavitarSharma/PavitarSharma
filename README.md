@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pavitar Sharma</h1>
 <h3 align="center">I'm a Full-stack Software Developer and JavaScript Enthusiast!</h3>
-img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavitarsharma&label=Profile%20views&color=0e75b6&style=flat" alt="pavitarsharma" /> </p>
 
