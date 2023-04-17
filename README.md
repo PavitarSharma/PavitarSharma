@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavitarsharma&label=Profile%20views&color=0e75b6&style=flat" alt="pavitarsharma" /> </p>
 
 
-- 🔭 I’m currently working on **React sites & more**
+- 🔭 I’m currently working on **MERN sites & more**
 
-- 🌱 I’m currently learning **MERN Development**
+- 🌱 I’m currently learning **MERN Development and NextJS developemnt**
 
 - 👨‍💻 All of my projects are available at [https://www.crio.do/learn/portfolio/pavitarsharma144](https://www.crio.do/learn/portfolio/pavitarsharma144)
 
