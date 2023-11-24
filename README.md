@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **MERN sites & more**
 
-- 🌱 I’m currently learning **MERN Development and NextJS developemnt**
+- 🌱 I’m currently learning **MERN Development and NextJS development**
 
 - 👨‍💻 All of my projects are available at [https://www.crio.do/learn/portfolio/pavitarsharma144](https://www.crio.do/learn/portfolio/pavitarsharma144)
 
