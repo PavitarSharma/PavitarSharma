@@ -2,6 +2,8 @@
 
 Experienced full-stack web developer with 1.5 years of hands-on practice, proficient in both front-end and back-end technologies. Skilled in crafting responsive and dynamic web applications using HTML, CSS, JavaScript, and frameworks like React and Node.js. Passionate about delivering user-centric solutions with clean, efficient code and innovative design.
 
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <hr />
 
 <h3>🧰 Languages and Tools<h3>
