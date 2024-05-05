@@ -22,6 +22,9 @@ Experienced full-stack web developer with 1.5 years of hands-on practice, profic
 <img width="30px" style="pading-right: 20px;" alt="docker"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img width="30px" style="pading-right: 20px;" alt="redis"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavitarsharma&" alt="pavitarsharma" /></p>
+
 <hr />
 <h3 align="left">Connect with me</h3>
 <p align="left">
