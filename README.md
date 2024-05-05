@@ -2,6 +2,8 @@
 
 Experienced full-stack web developer with 1.5 years of hands-on practice, proficient in both front-end and back-end technologies. Skilled in crafting responsive and dynamic web applications using HTML, CSS, JavaScript, and frameworks like React and Node.js. Passionate about delivering user-centric solutions with clean, efficient code and innovative design.
 
+<hr />
+
 <h3>🧰 Languages and Tools<h3>
 <img width="30px" style="pading-right: 20px;" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img width="30px" style="pading-right: 20px;" alt="css"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
