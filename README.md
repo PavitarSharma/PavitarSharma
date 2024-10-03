@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pavitar Sharma
 
-Experienced full-stack web developer with 1.5 years of hands-on practice, proficient in both front-end and back-end technologies. Skilled in crafting responsive and dynamic web applications using HTML, CSS, JavaScript, and frameworks like React and Node.js. Passionate about delivering user-centric solutions with clean, efficient code and innovative design.
+Hello! 👋 I’m a passionate Front-End Developer with 2 years of experience dedicated to creating engaging and user-friendly web applications. Skilled in crafting intuitive user interfaces using Tailwind CSS, Bootstrap, and Material UI. I excel in building scalable web applications that prioritize user experience and performance. Possesses a growing expertise in React Native, and NextJS. I extend my capabilities to mobile app development. Thriving in collaborative environments, I'm passionate about leveraging technology to solve real-world problems and drive digital innovation. I am committed to continuous improvement and staying updated with industry trends. I actively seek opportunities to learn new technologies and frameworks, which allow me to enhance my skill set and deliver high-quality work.
 
 <hr />
 
